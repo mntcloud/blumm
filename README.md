@@ -1,38 +1,7 @@
-# sv
+# blumm
+It was my dream to combine a board, like tldraw or figjam, and notes in size of tweets (I dunno how to describe size of my notes).
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+At the start, the project was a tool to publish tweets in Threads, Bluesky and Telegram. I wanted to practice my Latvian language in writting little notes about music 
+and kinda lost the point of purpose in the process.
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+It is still unfinished
