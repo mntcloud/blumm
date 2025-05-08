@@ -1,0 +1,28 @@
+{
+  "unstable": ["sloppy-imports"],
+  "lint": {
+    "rules": {
+      "exclude": ["no-sloppy-imports"]
+    }
+  },
+  "imports": {
+    "$lib": "./src/lib/index.ts",
+    "$lib/": "./src/lib/"
+  },
+  "compilerOptions": {
+    "rootDirs": [
+      ".",
+      "./.svelte-kit/types"
+    ],
+    "verbatimModuleSyntax": true,
+    "lib": [
+      "esnext",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "types": [
+      "./.svelte-kit/ambient.d.ts",
+      "./.svelte-kit/non-ambient.d.ts"
+    ]
+  }
+}
