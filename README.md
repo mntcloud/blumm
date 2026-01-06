@@ -1,8 +1,8 @@
 # blumm
-It was my dream to combine a board, like tldraw or figjam, and notes in size of tweets (I dunno how else to describe size of my notes).
+It has been my dream to combine a board, like tldraw or figjam, and notes in size of tweets (I dunno how else to describe size of my notes).
 
 ## Backstory
-At the start, the project was a tool to publish tweets in Threads, Bluesky and Telegram. I wanted to practice my Latvian language in writting little notes about music 
-and kinda lost the point of purpose in the process.
+In the begining the project was a tool to publish tweets in Threads, Bluesky and Telegram at once. I wanted to practice my Latvian language by writting little notes about music 
+and kinda lost the point of purpose, while I was developing this thing.
 
-It is still unfinished
+It is buggy and unfinished
